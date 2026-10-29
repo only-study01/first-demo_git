@@ -1,3 +1,3 @@
 # first-demo_git
-my first git repository
+my first git repository.
 author : joy
